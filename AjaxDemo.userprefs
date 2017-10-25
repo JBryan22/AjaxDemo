@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{63A53FB1-1060-4346-B805-A32DED5723B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AjaxDemo/wwwroot/js/site.js">
+    <Files>
+      <File FileName="AjaxDemo/appsettings.json" Line="6" Column="1" />
+      <File FileName="AjaxDemo/Models/ApplicationDbContext.cs" Line="9" Column="68" />
+      <File FileName="AjaxDemo/AjaxDemo.csproj" Line="14" Column="17" />
+      <File FileName="AjaxDemo/Startup.cs" Line="58" Column="13" />
+      <File FileName="AjaxDemo/Views/Home/Index.cshtml" Line="41" Column="27" />
+      <File FileName="AjaxDemo/Controllers/HomeController.cs" Line="44" Column="10" />
+      <File FileName="AjaxDemo/Program.cs" Line="19" Column="26" />
+      <File FileName="AjaxDemo/Models/Destination.cs" Line="19" Column="21" />
+      <File FileName="AjaxDemo/bower.json" Line="1" Column="1" />
+      <File FileName="AjaxDemo/Views/Home/DisplayViewWithAjax.cshtml" Line="5" Column="1" />
+      <File FileName="AjaxDemo/Views/Shared/_Layout.cshtml" Line="44" Column="42" />
+      <File FileName="AjaxDemo/wwwroot/js/site.js" Line="71" Column="39" />
+      <File FileName="AjaxDemo/wwwroot/css/site.css" Line="4" Column="1" />
+      <File FileName="AjaxDemo/wwwroot/js/site.min.js" Line="1" Column="1" />
+      <File FileName="AjaxDemo/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="AjaxDemo/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AjaxDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.deps.json
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.runtimeconfig.json
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.runtimeconfig.dev.json
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.AssemblyInfo.cs
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.dll
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/bin/Debug/netcoreapp1.1/AjaxDemo.pdb
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.dll
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.pdb
+/Users/Guest/Desktop/AjaxDemo/AjaxDemo/obj/Debug/netcoreapp1.1/AjaxDemo.csproj.CoreCompileInputs.cache
